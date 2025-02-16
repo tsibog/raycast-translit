@@ -36,7 +36,7 @@ be added in future releases.
 
 | Latin Input | Russian Cyrillic |
 | ----------- | ---------------- |
-| privet      | привет           |
+| Privet      | Привет           |
 | dobryj den' | добрый день      |
 | shhuka      | щука             |
 
