@@ -44,7 +44,7 @@ be added in future releases.
 
 If you have any feedback or issues, please:
 
-- Open an issue on GitHub
+- Open an issue in the Raycast GitHub repo
 
 ## Credits
 
